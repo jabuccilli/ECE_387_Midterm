@@ -2,7 +2,9 @@
 
 This project will be a part of a group project with John Kessinger, Jon Schaff, and Mark Sullivan to create the popular game "Keep Talking and Nobody Explodes"
 
-My portion of the project is to use the arduino microcontroller to produce various words via a speaker in morse code which are then to be decoded by a manual by entering a passcode into a keypad. Each word will have a single unique passcode and the word that comes out is pseudo-random. Also as a part of the project is to integrate the parts of the game to a time and strike counter. In this project I will inteface the keypad and speaker with the aruino as well as work with memory management and other levels of the project once it comes together as a group.
+For my midterm chip interface I would like to work with controlling an LED strip and speaker using an H-Bridge. The specific module I plan to use is the L298N Dual H-Bridge Motor Controller. I wanted to potentially use this chip in the final project as a way to drive the brightness of LED arrays and the speaker simultaneously to represent the morse code. I would also need to build supplimental cicuitry to ensure that the current on either side of the bridge doesn't get too high.
+
+My portion of the final project is to use the arduino microcontroller to produce various words via a speaker and LEDs in morse code which are then to be decoded by a manual by entering a passcode into a keypad. Each word will have a single unique passcode and the word that comes out is pseudo-random. Also as a part of the project is to integrate the parts of the game to a time and strike counter. In this project I will inteface the keypad and speaker with the aruino as well as work with memory management and other levels of the project once it comes together as a group.
 
 Example Manual: http://www.bombmanual.com/manual/1/html/index.html
 
